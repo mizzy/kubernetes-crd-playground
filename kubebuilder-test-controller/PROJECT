@@ -1,0 +1,3 @@
+version: "1"
+domain: mizzy.org
+repo: github.com/mizzy/kubernetes-crd-playground/kubebuilder-test-controller
